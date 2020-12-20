@@ -20,6 +20,7 @@
 
 ```sh
 Código desenvolvido para fins educativos.
+Parte 2: https://github.com/barbosahub/PE-Swagger_Basic.02
 ```
 
 
