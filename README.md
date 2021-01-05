@@ -8,7 +8,7 @@
 
 
 <p align="left">
-  <img src="https://github.com/barbosahub/PE-Swagger_Basic.01/blob/master/images/API.JPG" width="750" alt="accessibility text">
+  <img src="https://github.com/barbosahub/ImageRepository/blob/master/PE-Swagger_Basic.01/API.JPG" width="750" alt="API Documentada Swagger">
 </p>
 
 
@@ -20,7 +20,6 @@
 
 ```sh
 Código desenvolvido para fins educativos.
-Parte 2: https://github.com/barbosahub/PE-Swagger_Basic.02
 ```
 
 
